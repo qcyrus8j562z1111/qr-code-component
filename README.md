@@ -1,7 +1,7 @@
 # qr-code-component
 My solution to the Frontend Mentor QR Code Component challenge. Practicing basic HTML/CSS structure, layout, spacing, and design accuracy.
 
-*(Replace the file name if yours is different.)*
+
 
 ---
 
@@ -11,6 +11,11 @@ My solution to the Frontend Mentor QR Code Component challenge. Practicing basic
 - Live Site URL: *(Optional — add GitHub Pages link if you publish it)*
 
 ---
+
+## 📸 Screenshot
+
+![Screenshot of my QR Code Component](./screenshot.png)
+
 
 ## 🧰 Built With
 
@@ -45,7 +50,7 @@ I plan to keep improving by working on more Frontend Mentor challenges, focusing
 
 ## 🙋‍♀️ Author
 
-**Michelle**
+**QUENTIN**
 
 - Frontend Mentor: *(Add your username if you create one)*
 - GitHub: https://github.com/YOUR-USERNAME
