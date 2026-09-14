@@ -1,0 +1,72 @@
+/* ------------------------------
+    GLOBAL PAGE STYLING
+    ------------------------------ */
+* {
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Outfit', sans-serif;
+   background: hsl(212, 45%, 89%);
+   display: grid;
+   grid-template-rows: 1fr auto;
+   justify-items: center;
+   min-height: 100vh;
+   margin: 0;
+   padding: 1rem;
+}
+
+/* ------------------------------
+    QR CARD CONTAINER
+    ------------------------------ */
+.qr-card-component {
+   align-self: center;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0 10px 20px rgba(31, 50, 81, 0.08);
+   max-width: 320px;
+   padding: 1rem 1rem 2.25rem;
+   text-align: center;
+}
+
+
+/* ------------------------------
+   QR IMAGE
+   ------------------------------ */
+.qr-code {
+   width: 100%;
+   border-radius: 10px;
+}
+
+   /* ------------------------------
+   HEADING TEXT
+   ------------------------------ */
+
+.qr-card-component h1 {
+   font-size: 1.4rem;
+   line-height: 1.2;
+   margin: 1.45rem 0 0.85rem;
+   color: hsl(218, 44%, 22%);
+}
+
+   /* ------------------------------
+   PARAGRAPH TEXT
+   ------------------------------ */
+.qr-card-component p {
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  margin: 0;
+  color: hsl(216, 15%, 48%);
+}
+
+   /* ------------------------------
+   FOOTER ATTRIBUTION
+   ------------------------------ */
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
